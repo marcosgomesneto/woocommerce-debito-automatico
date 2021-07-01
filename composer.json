@@ -1,0 +1,16 @@
+{
+    "name": "marcosgomesneto/woocommerce-debito-automatico",
+    "description": "Plugin para woocommerce debito automatico",
+    "authors": [
+        {
+            "name": "Marcos Gomes Neto",
+            "email": "marcosgomesneto@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MGN\\": "src/"
+        }
+    },
+    "require": {}
+}
